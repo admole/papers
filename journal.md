@@ -17,3 +17,8 @@ We add to these measurements, with chemical composition data, using an aerosol m
 
 John has made simulations of particle formation using some model.
 it reproduces something observed and blahhhhh blahhhhh.
+
+# Conclusion
+
+This conclusion is much better
+It includes capitals.
