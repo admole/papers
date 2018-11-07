@@ -7,4 +7,4 @@ Andrew Mole
 # Introduction
 
 Haywood et al made some great measurements of BBOA over tyhe sahara.
-We add to these measurements, with chemical composition data.
+We add to these measurements, with chemical composition data, using an aerosol mass spectrometer (Allen et al 2000).
