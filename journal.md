@@ -36,5 +36,8 @@ We observed particle growth through coagulation, and report some results.
 We made some ground breaking discovery.
 Need more .....
 
+# Figures
+
+This is where the figures go in a draft manuscript.
 
 
