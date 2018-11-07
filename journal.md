@@ -4,8 +4,9 @@ model-measurement comparison
 of boring title of thing
 
 # Author
-Andrew Mole
 John Smith
+Andrew Mole
+
 
 # Abstract
 
