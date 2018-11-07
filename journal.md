@@ -40,4 +40,8 @@ Need more .....
 
 This is where the figures go in a draft manuscript.
 
+# Acknowledements
+
+We would like to thank random people
+
 
