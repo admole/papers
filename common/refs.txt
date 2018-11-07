@@ -3,3 +3,5 @@ Haywood et al 1999 BBOA measurements over the sahara.
 Allen et al 2000, that seminal paper on AMS.
 
 Jiminez et al 2004, another boring paper.
+
+Allen et al 1999 Another paper.
