@@ -1,8 +1,10 @@
 # Title
+simulations of
 boring title of thing
 
 # Author
 Andrew Mole
+John Smith
 
 # Introduction
 
